@@ -1,0 +1,10 @@
+{
+    "name": "ahmadpriatama/bootstrap-tagsinput",
+    "description": "Use Composer \"replace\" to fake out installing bower-asset dependencies that aren't really needed",
+    "type": "metapackage",
+    "license": "MIT",
+    "require": {},
+    "replace": {
+      "bower-asset/bootstrap-tagsinput": "*"
+    }
+}
