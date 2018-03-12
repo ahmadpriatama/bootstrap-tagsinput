@@ -5,6 +5,6 @@
     "license": "MIT",
     "require": {},
     "replace": {
-      "bower-asset/bootstrap-tagsinput": "*"
+      "bower-asset/bootstrap-tagsinput": "0.8.0"
     }
 }
